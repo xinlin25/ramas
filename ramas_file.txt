@@ -1,3 +1,4 @@
 Hola
-Hola2
+Cambio desde rama12
+Conflicto
 Hola3
